@@ -1,0 +1,14 @@
+{
+    "baseX": -80,
+    "baseY": 0,
+    "default_Z": 0.23,
+    "detect_threshold": 220,
+    "gripper_lenght": 90,
+    "idVendor": "28E9",
+    "idProduct": "018A",
+    "camera_index": 0,
+    "com": "COM10",
+    "claw_thread": "True",
+    "model_invoke_pattern": "Qwen",
+    "key": "sk-d0868a6ca3d644f2bd262e2d19ae6776"
+}
